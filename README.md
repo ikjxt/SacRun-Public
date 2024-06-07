@@ -5,7 +5,7 @@ SacRun is a game that I developed during my CSC 133, Object-Oriented Computer Gr
 I used ECLIPSE IDE to code and simulate an IPAD. The entire project is done in Java and I used Github for version control. Outside of these three tools, nothing else was needed or used.
 
 # Game Layout And Controls
-The main character of this game is a student trying to navigate around campus and get to class. While doing this, the student gets dehydrated, bumps into other students, and has to use the bathroom. All students are empty triangles, and the playable character is the solid triangle. Each lecture hall is a blue rectangle, each bathroom is a green rectangle, and each water fountain is a blue circle. While playing the game, you must manage your hydration, water intake, and absences. Hydration must not fall below 0, this will decrease each second and can be restored to 100 by going to a water fountain (blue circle). Each time you do this, your water intake will increase but it must not exceed 100, this can be dropped to 0 by using the bathroom (green rectangle). Lectures will randomly generate in each lecture hall (blue rectangle), and you must make it to each lecture before it ends or you will gain an absence. You can not exceed 3 absences, drop below 0 hydration, or let your water intake exceed 100, as this will result in losing the game. Bumping into other students results in a conversation, which will delay the player for a certain amount of time depending on type of student.
+The main character of this game is a student trying to navigate around campus and get to class. While doing this, the student gets dehydrated, bumps into other students, and has to use the bathroom. All students are empty triangles, and the playable character is the solid triangle. Each lecture hall is a blue rectangle, each bathroom is a green rectangle, and each water fountain is a blue circle. While playing the game, you must manage your hydration, water intake, and absences. Hydration must not fall below 0, this will decrease each second and can be restored to 100 by going to a water fountain (blue circle). Each time you do this, your water intake will increase but it must not exceed 100, this can be dropped to 0 by using the bathroom (green rectangle). Lectures will randomly generate in each lecture hall (blue rectangle), and you must make it to each lecture before it ends or you will gain an absence. You can not exceed 3 absences, drop below 0 hydration, or let your water intake exceed 100, as this will result in losing the game. Bumping into other students results in a conversation, which will delay the player for a certain amount of time depending on the type of student. Each respective delay is listed below, along with the associated student type.
 
 Here is the display when the game is started:
 ![image](https://github.com/ikjxt/SacRun-Public/assets/68973747/a4d6d7fd-4bc2-4bf3-bb19-3956f4290231)
@@ -25,7 +25,20 @@ There are also students (clear triangles) that behave certain ways all over the 
 Here is the output to the console:
 add image of console output here.
 
+The controls can be executed by either pressing the buttons on the left hand side of the screen or using your keyboard. If you choose to use your keyboard, the controls are:
+- 'W' key : Starts player movement.
+- 'S' key : Stops player movement.
+- 'A' key : Move to the left.
+- 'D' key : Move to the right.
+  
 # App Navigation
+Main Page: The main page, the game will automatically open up to this page.
+
+Left Drop Down Menu: This menu can be opened by clicking the button indicated by three lines above the game buttons on the left hand side of the screen.
+
+About Button: This pop-up appears when you press the about button on the upper right hand side of the screen.
+
+Bottom Left Description: This part of the screen will indicate what is currently occuring, such as any collisions.
 
 # Video Demo
 Interested in seeing a video demo of the game? [Click Here](https://youtube.com)
