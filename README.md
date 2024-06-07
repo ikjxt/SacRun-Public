@@ -39,7 +39,8 @@ Left Drop Down Menu: This menu can be opened by clicking the button indicated by
 Exit Button: This will prompt the user to exit the game or continue playing.
 ![Screenshot (236)](https://github.com/ikjxt/SacRun-Public/assets/68973747/77e4c744-6960-451e-b2d8-c7b986ef8668)
 
-About Button: This pop-up appears when you press the about button on the upper right hand side of the screen. (tbd)
+About Button: This pop-up appears when you press the about button on the upper right hand side of the screen.
+![Screenshot (244)](https://github.com/ikjxt/SacRun-Public/assets/68973747/6b2c4d67-775a-4ed8-a388-9561da0fed95)
 
 Bottom Left Description: This part of the screen will indicate what is currently occuring, such as any collisions.
 ![Screenshot (239)](https://github.com/ikjxt/SacRun-Public/assets/68973747/6262a236-29f1-4145-a8a4-97626962b391)
