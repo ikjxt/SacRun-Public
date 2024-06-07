@@ -20,8 +20,8 @@ There are also students (clear triangles) that behave certain ways all over the 
 - Student Car: Only moves horizontally or vertically, 2 second delay.
 - Student NonStop: Does not stop player, no delay.
 
-Here is the output to the console: (242)
-add image of console output here.
+Here is the output to the console:
+![Screenshot (242)](https://github.com/ikjxt/SacRun-Public/assets/68973747/1de26c53-488f-4cea-809c-5ad866be56a1)
 
 The controls can be executed by either pressing the buttons on the left hand side of the screen or using your keyboard. If you choose to use your keyboard, the controls are:
 - 'W' key : Starts player movement.
@@ -30,16 +30,20 @@ The controls can be executed by either pressing the buttons on the left hand sid
 - 'D' key : Move to the right.
   
 # App Navigation
-Main Page: The main page, the game will automatically open up to this page.
+Main Page: The game will automatically open up to this page.
 ![Screenshot (233)](https://github.com/ikjxt/SacRun-Public/assets/68973747/31389501-0547-40b1-81f4-628c05788834)
 
-Left Drop Down Menu: This menu can be opened by clicking the button indicated by three lines above the game buttons on the left hand side of the screen. (234)
+Left Drop Down Menu: This menu can be opened by clicking the button indicated by three lines above the game buttons on the left hand side of the screen.
+![Screenshot (234)](https://github.com/ikjxt/SacRun-Public/assets/68973747/b22d94d1-ecdd-4a17-b0d2-4ed764eb3202)
 
 Exit Button: This will prompt the user to exit the game or continue playing. (236)
 
 About Button: This pop-up appears when you press the about button on the upper right hand side of the screen. (tbd)
 
 Bottom Left Description: This part of the screen will indicate what is currently occuring, such as any collisions. (239)
+
+Game Over: Displays when you lose the game.
+![Screenshot (243)](https://github.com/ikjxt/SacRun-Public/assets/68973747/2c718b8c-44be-4b39-a348-ccad8b65d6ab)
 
 # Video Demo
 Interested in seeing a video demo of the game? [Click Here](https://youtube.com)
