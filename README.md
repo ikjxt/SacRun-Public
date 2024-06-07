@@ -36,11 +36,13 @@ Main Page: The game will automatically open up to this page.
 Left Drop Down Menu: This menu can be opened by clicking the button indicated by three lines above the game buttons on the left hand side of the screen.
 ![Screenshot (234)](https://github.com/ikjxt/SacRun-Public/assets/68973747/b22d94d1-ecdd-4a17-b0d2-4ed764eb3202)
 
-Exit Button: This will prompt the user to exit the game or continue playing. (236)
+Exit Button: This will prompt the user to exit the game or continue playing.
+![Screenshot (236)](https://github.com/ikjxt/SacRun-Public/assets/68973747/77e4c744-6960-451e-b2d8-c7b986ef8668)
 
 About Button: This pop-up appears when you press the about button on the upper right hand side of the screen. (tbd)
 
-Bottom Left Description: This part of the screen will indicate what is currently occuring, such as any collisions. (239)
+Bottom Left Description: This part of the screen will indicate what is currently occuring, such as any collisions.
+![Screenshot (239)](https://github.com/ikjxt/SacRun-Public/assets/68973747/6262a236-29f1-4145-a8a4-97626962b391)
 
 Game Over: Displays when you lose the game.
 ![Screenshot (243)](https://github.com/ikjxt/SacRun-Public/assets/68973747/2c718b8c-44be-4b39-a348-ccad8b65d6ab)
