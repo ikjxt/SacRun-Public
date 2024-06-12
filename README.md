@@ -1,5 +1,5 @@
 # SacRun-Public
-SacRun is a game that I developed during my CSC 133, Object-Oriented Computer Graphics, course. Although I have worked on the game outside of class, I can not publish the code as future students may copy my work and this would violate my course agreement. This being said, I have a demo on youtube, along with this detailed ReadMe to showcase my project.
+SacRun is a game that I developed during my CSC 133, Object-Oriented Computer Graphics, course. Although I have worked on the game outside of class, I can not publish the code as future students may copy my work and this would violate my course agreement and cause unnecessary issues for my professor. This being said, I have a demo on youtube, along with this detailed ReadMe to showcase my project.
 
 # Tools 
 I used Eclipse IDE to code and simulate an Ipad, along with CodeNameOne API for Java GUI functionalities. The entire project is done in Java and I used Github for version control. Outside of these three tools, nothing else was needed or used.
